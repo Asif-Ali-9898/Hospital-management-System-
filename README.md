@@ -7,10 +7,13 @@ A desktop-based Hospital Management application built using **Java Swing** and *
 ## 🚀 **Project Overview**
 This application helps manage:
 - Patient records
+- patient discharge
 - Rooms
 - Doctor information
+- Employee information
 - Departments 
 - Billing and payments
+- Abmulance
 
 Built as a **Java Swing GUI** project for educational and demonstration purposes.
 
